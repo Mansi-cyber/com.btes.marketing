@@ -1,0 +1,4 @@
+# Created at 2019-10-14T10:59:49.412
+Boot Manifest-JAR contains absolute paths in classpath 'D:\mansi\com.btes.marketing\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

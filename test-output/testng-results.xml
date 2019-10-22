@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2019-10-14T05:29:30Z" finished-at="2019-10-14T05:29:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2019-10-14T05:29:30Z" finished-at="2019-10-14T05:29:30Z">
+      <class name="com.btes.Tests.Testing">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.btes.Tests.Testing@153acfe]" name="start" duration-ms="16" started-at="2019-10-14T05:29:30Z" finished-at="2019-10-14T05:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- com.btes.Tests.Testing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
